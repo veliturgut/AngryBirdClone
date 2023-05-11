@@ -15,6 +15,46 @@
 		BD100CF22A0B8FDC00474D45 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD100CF02A0B8FDC00474D45 /* Main.storyboard */; };
 		BD100CF42A0B8FEC00474D45 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD100CF32A0B8FEC00474D45 /* Assets.xcassets */; };
 		BD100CF72A0B8FEC00474D45 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD100CF52A0B8FEC00474D45 /* LaunchScreen.storyboard */; };
+		BD100D362A0BB49000474D45 /* visit_bevouliin_dot_com.txt in Resources */ = {isa = PBXBuildFile; fileRef = BD100CFF2A0BB49000474D45 /* visit_bevouliin_dot_com.txt */; };
+		BD100D372A0BB49000474D45 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D012A0BB49000474D45 /* 2.png */; };
+		BD100D382A0BB49000474D45 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D022A0BB49000474D45 /* 3.png */; };
+		BD100D392A0BB49000474D45 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D032A0BB49000474D45 /* 1.png */; };
+		BD100D3A2A0BB49000474D45 /* visit_bevouliin_dot_com.txt in Resources */ = {isa = PBXBuildFile; fileRef = BD100D052A0BB49000474D45 /* visit_bevouliin_dot_com.txt */; };
+		BD100D3B2A0BB49000474D45 /* brick_3.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D072A0BB49000474D45 /* brick_3.png */; };
+		BD100D3C2A0BB49000474D45 /* brick_2.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D082A0BB49000474D45 /* brick_2.png */; };
+		BD100D3D2A0BB49000474D45 /* brick_1.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D092A0BB49000474D45 /* brick_1.png */; };
+		BD100D3E2A0BB49000474D45 /* GIF-sample.gif in Resources */ = {isa = PBXBuildFile; fileRef = BD100D0B2A0BB49000474D45 /* GIF-sample.gif */; };
+		BD100D3F2A0BB49000474D45 /* frame-4.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D0D2A0BB49000474D45 /* frame-4.png */; };
+		BD100D402A0BB49000474D45 /* frame-2.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D0E2A0BB49000474D45 /* frame-2.png */; };
+		BD100D412A0BB49000474D45 /* frame-3.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D0F2A0BB49000474D45 /* frame-3.png */; };
+		BD100D422A0BB49000474D45 /* Frame-1.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D102A0BB49000474D45 /* Frame-1.png */; };
+		BD100D432A0BB49000474D45 /* visit_bevouliin_dot_com.txt in Resources */ = {isa = PBXBuildFile; fileRef = BD100D122A0BB49000474D45 /* visit_bevouliin_dot_com.txt */; };
+		BD100D442A0BB49000474D45 /* old-tree-game-ornament.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D132A0BB49000474D45 /* old-tree-game-ornament.png */; };
+		BD100D452A0BB49000474D45 /* visit_bevouliin_dot_com.txt in Resources */ = {isa = PBXBuildFile; fileRef = BD100D152A0BB49000474D45 /* visit_bevouliin_dot_com.txt */; };
+		BD100D462A0BB49000474D45 /* moss_obstacle_1.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D172A0BB49000474D45 /* moss_obstacle_1.png */; };
+		BD100D472A0BB49000474D45 /* moss_obstacle_2.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D182A0BB49000474D45 /* moss_obstacle_2.png */; };
+		BD100D482A0BB49000474D45 /* moss_tile.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D192A0BB49000474D45 /* moss_tile.png */; };
+		BD100D492A0BB49000474D45 /* get more at bevouliin_dot_com.txt in Resources */ = {isa = PBXBuildFile; fileRef = BD100D1B2A0BB49000474D45 /* get more at bevouliin_dot_com.txt */; };
+		BD100D4A2A0BB49000474D45 /* Tile.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D1D2A0BB49000474D45 /* Tile.png */; };
+		BD100D4B2A0BB49000474D45 /* Full-Background.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D1E2A0BB49000474D45 /* Full-Background.png */; };
+		BD100D4C2A0BB49000474D45 /* layer-2-mountain.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D1F2A0BB49000474D45 /* layer-2-mountain.png */; };
+		BD100D4D2A0BB49000474D45 /* layer-1-sky.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D202A0BB49000474D45 /* layer-1-sky.png */; };
+		BD100D4E2A0BB49000474D45 /* layer-3-ground.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D212A0BB49000474D45 /* layer-3-ground.png */; };
+		BD100D4F2A0BB49000474D45 /* get more at bevouliin_dot_com.txt in Resources */ = {isa = PBXBuildFile; fileRef = BD100D232A0BB49000474D45 /* get more at bevouliin_dot_com.txt */; };
+		BD100D502A0BB49000474D45 /* Tile.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D252A0BB49000474D45 /* Tile.png */; };
+		BD100D512A0BB49000474D45 /* Full-Background.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D262A0BB49000474D45 /* Full-Background.png */; };
+		BD100D522A0BB49000474D45 /* layer-2-mountain.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D272A0BB49000474D45 /* layer-2-mountain.png */; };
+		BD100D532A0BB49000474D45 /* layer-1-sky.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D282A0BB49000474D45 /* layer-1-sky.png */; };
+		BD100D542A0BB49000474D45 /* layer-3-ground.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D292A0BB49000474D45 /* layer-3-ground.png */; };
+		BD100D552A0BB49000474D45 /* get more at bevouliin_dot_com.txt in Resources */ = {isa = PBXBuildFile; fileRef = BD100D2B2A0BB49000474D45 /* get more at bevouliin_dot_com.txt */; };
+		BD100D562A0BB49000474D45 /* layer-1.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D2E2A0BB49000474D45 /* layer-1.png */; };
+		BD100D572A0BB49000474D45 /* layer-3.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D2F2A0BB49000474D45 /* layer-3.png */; };
+		BD100D582A0BB49000474D45 /* layer-2.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D302A0BB49000474D45 /* layer-2.png */; };
+		BD100D592A0BB49000474D45 /* layer-6.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D312A0BB49000474D45 /* layer-6.png */; };
+		BD100D5A2A0BB49000474D45 /* layer-5.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D322A0BB49000474D45 /* layer-5.png */; };
+		BD100D5B2A0BB49000474D45 /* layer-4.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D332A0BB49000474D45 /* layer-4.png */; };
+		BD100D5C2A0BB49000474D45 /* tile ground.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D342A0BB49000474D45 /* tile ground.png */; };
+		BD100D5D2A0BB49000474D45 /* full-bg.png in Resources */ = {isa = PBXBuildFile; fileRef = BD100D352A0BB49000474D45 /* full-bg.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +67,46 @@
 		BD100CF12A0B8FDC00474D45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BD100CF32A0B8FEC00474D45 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD100CF62A0B8FEC00474D45 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		BD100CFF2A0BB49000474D45 /* visit_bevouliin_dot_com.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = visit_bevouliin_dot_com.txt; sourceTree = "<group>"; };
+		BD100D012A0BB49000474D45 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		BD100D022A0BB49000474D45 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		BD100D032A0BB49000474D45 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		BD100D052A0BB49000474D45 /* visit_bevouliin_dot_com.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = visit_bevouliin_dot_com.txt; sourceTree = "<group>"; };
+		BD100D072A0BB49000474D45 /* brick_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = brick_3.png; sourceTree = "<group>"; };
+		BD100D082A0BB49000474D45 /* brick_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = brick_2.png; sourceTree = "<group>"; };
+		BD100D092A0BB49000474D45 /* brick_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = brick_1.png; sourceTree = "<group>"; };
+		BD100D0B2A0BB49000474D45 /* GIF-sample.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "GIF-sample.gif"; sourceTree = "<group>"; };
+		BD100D0D2A0BB49000474D45 /* frame-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "frame-4.png"; sourceTree = "<group>"; };
+		BD100D0E2A0BB49000474D45 /* frame-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "frame-2.png"; sourceTree = "<group>"; };
+		BD100D0F2A0BB49000474D45 /* frame-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "frame-3.png"; sourceTree = "<group>"; };
+		BD100D102A0BB49000474D45 /* Frame-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Frame-1.png"; sourceTree = "<group>"; };
+		BD100D122A0BB49000474D45 /* visit_bevouliin_dot_com.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = visit_bevouliin_dot_com.txt; sourceTree = "<group>"; };
+		BD100D132A0BB49000474D45 /* old-tree-game-ornament.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "old-tree-game-ornament.png"; sourceTree = "<group>"; };
+		BD100D152A0BB49000474D45 /* visit_bevouliin_dot_com.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = visit_bevouliin_dot_com.txt; sourceTree = "<group>"; };
+		BD100D172A0BB49000474D45 /* moss_obstacle_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moss_obstacle_1.png; sourceTree = "<group>"; };
+		BD100D182A0BB49000474D45 /* moss_obstacle_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moss_obstacle_2.png; sourceTree = "<group>"; };
+		BD100D192A0BB49000474D45 /* moss_tile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moss_tile.png; sourceTree = "<group>"; };
+		BD100D1B2A0BB49000474D45 /* get more at bevouliin_dot_com.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "get more at bevouliin_dot_com.txt"; sourceTree = "<group>"; };
+		BD100D1D2A0BB49000474D45 /* Tile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tile.png; sourceTree = "<group>"; };
+		BD100D1E2A0BB49000474D45 /* Full-Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Full-Background.png"; sourceTree = "<group>"; };
+		BD100D1F2A0BB49000474D45 /* layer-2-mountain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "layer-2-mountain.png"; sourceTree = "<group>"; };
+		BD100D202A0BB49000474D45 /* layer-1-sky.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "layer-1-sky.png"; sourceTree = "<group>"; };
+		BD100D212A0BB49000474D45 /* layer-3-ground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "layer-3-ground.png"; sourceTree = "<group>"; };
+		BD100D232A0BB49000474D45 /* get more at bevouliin_dot_com.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "get more at bevouliin_dot_com.txt"; sourceTree = "<group>"; };
+		BD100D252A0BB49000474D45 /* Tile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tile.png; sourceTree = "<group>"; };
+		BD100D262A0BB49000474D45 /* Full-Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Full-Background.png"; sourceTree = "<group>"; };
+		BD100D272A0BB49000474D45 /* layer-2-mountain.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "layer-2-mountain.png"; sourceTree = "<group>"; };
+		BD100D282A0BB49000474D45 /* layer-1-sky.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "layer-1-sky.png"; sourceTree = "<group>"; };
+		BD100D292A0BB49000474D45 /* layer-3-ground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "layer-3-ground.png"; sourceTree = "<group>"; };
+		BD100D2B2A0BB49000474D45 /* get more at bevouliin_dot_com.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "get more at bevouliin_dot_com.txt"; sourceTree = "<group>"; };
+		BD100D2E2A0BB49000474D45 /* layer-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "layer-1.png"; sourceTree = "<group>"; };
+		BD100D2F2A0BB49000474D45 /* layer-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "layer-3.png"; sourceTree = "<group>"; };
+		BD100D302A0BB49000474D45 /* layer-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "layer-2.png"; sourceTree = "<group>"; };
+		BD100D312A0BB49000474D45 /* layer-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "layer-6.png"; sourceTree = "<group>"; };
+		BD100D322A0BB49000474D45 /* layer-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "layer-5.png"; sourceTree = "<group>"; };
+		BD100D332A0BB49000474D45 /* layer-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "layer-4.png"; sourceTree = "<group>"; };
+		BD100D342A0BB49000474D45 /* tile ground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tile ground.png"; sourceTree = "<group>"; };
+		BD100D352A0BB49000474D45 /* full-bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "full-bg.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,8 +147,184 @@
 				BD100CF02A0B8FDC00474D45 /* Main.storyboard */,
 				BD100CF32A0B8FEC00474D45 /* Assets.xcassets */,
 				BD100CF52A0B8FEC00474D45 /* LaunchScreen.storyboard */,
+				BD100CFD2A0BB49000474D45 /* appimage */,
 			);
 			path = AngryBirdClone;
+			sourceTree = "<group>";
+		};
+		BD100CFD2A0BB49000474D45 /* appimage */ = {
+			isa = PBXGroup;
+			children = (
+				BD100CFE2A0BB49000474D45 /* wooden brick tile game obstacle */,
+				BD100D042A0BB49000474D45 /* brick_game_asset_game_obstacles */,
+				BD100D0A2A0BB49000474D45 /* Flappy grumpy bird game character */,
+				BD100D112A0BB49000474D45 /* old_tree_game_ornament_decoration */,
+				BD100D142A0BB49000474D45 /* moss square box tileset game obstacle */,
+				BD100D1A2A0BB49000474D45 /* Free mountain background(1) */,
+				BD100D222A0BB49000474D45 /* Free mountain background */,
+				BD100D2A2A0BB49000474D45 /* Fence Game Background for game developers */,
+			);
+			path = appimage;
+			sourceTree = "<group>";
+		};
+		BD100CFE2A0BB49000474D45 /* wooden brick tile game obstacle */ = {
+			isa = PBXGroup;
+			children = (
+				BD100CFF2A0BB49000474D45 /* visit_bevouliin_dot_com.txt */,
+				BD100D002A0BB49000474D45 /* PNG */,
+			);
+			path = "wooden brick tile game obstacle";
+			sourceTree = "<group>";
+		};
+		BD100D002A0BB49000474D45 /* PNG */ = {
+			isa = PBXGroup;
+			children = (
+				BD100D012A0BB49000474D45 /* 2.png */,
+				BD100D022A0BB49000474D45 /* 3.png */,
+				BD100D032A0BB49000474D45 /* 1.png */,
+			);
+			path = PNG;
+			sourceTree = "<group>";
+		};
+		BD100D042A0BB49000474D45 /* brick_game_asset_game_obstacles */ = {
+			isa = PBXGroup;
+			children = (
+				BD100D052A0BB49000474D45 /* visit_bevouliin_dot_com.txt */,
+				BD100D062A0BB49000474D45 /* PNG */,
+			);
+			path = brick_game_asset_game_obstacles;
+			sourceTree = "<group>";
+		};
+		BD100D062A0BB49000474D45 /* PNG */ = {
+			isa = PBXGroup;
+			children = (
+				BD100D072A0BB49000474D45 /* brick_3.png */,
+				BD100D082A0BB49000474D45 /* brick_2.png */,
+				BD100D092A0BB49000474D45 /* brick_1.png */,
+			);
+			path = PNG;
+			sourceTree = "<group>";
+		};
+		BD100D0A2A0BB49000474D45 /* Flappy grumpy bird game character */ = {
+			isa = PBXGroup;
+			children = (
+				BD100D0B2A0BB49000474D45 /* GIF-sample.gif */,
+				BD100D0C2A0BB49000474D45 /* PNG */,
+			);
+			path = "Flappy grumpy bird game character";
+			sourceTree = "<group>";
+		};
+		BD100D0C2A0BB49000474D45 /* PNG */ = {
+			isa = PBXGroup;
+			children = (
+				BD100D0D2A0BB49000474D45 /* frame-4.png */,
+				BD100D0E2A0BB49000474D45 /* frame-2.png */,
+				BD100D0F2A0BB49000474D45 /* frame-3.png */,
+				BD100D102A0BB49000474D45 /* Frame-1.png */,
+			);
+			path = PNG;
+			sourceTree = "<group>";
+		};
+		BD100D112A0BB49000474D45 /* old_tree_game_ornament_decoration */ = {
+			isa = PBXGroup;
+			children = (
+				BD100D122A0BB49000474D45 /* visit_bevouliin_dot_com.txt */,
+				BD100D132A0BB49000474D45 /* old-tree-game-ornament.png */,
+			);
+			path = old_tree_game_ornament_decoration;
+			sourceTree = "<group>";
+		};
+		BD100D142A0BB49000474D45 /* moss square box tileset game obstacle */ = {
+			isa = PBXGroup;
+			children = (
+				BD100D152A0BB49000474D45 /* visit_bevouliin_dot_com.txt */,
+				BD100D162A0BB49000474D45 /* PNG */,
+			);
+			path = "moss square box tileset game obstacle";
+			sourceTree = "<group>";
+		};
+		BD100D162A0BB49000474D45 /* PNG */ = {
+			isa = PBXGroup;
+			children = (
+				BD100D172A0BB49000474D45 /* moss_obstacle_1.png */,
+				BD100D182A0BB49000474D45 /* moss_obstacle_2.png */,
+				BD100D192A0BB49000474D45 /* moss_tile.png */,
+			);
+			path = PNG;
+			sourceTree = "<group>";
+		};
+		BD100D1A2A0BB49000474D45 /* Free mountain background(1) */ = {
+			isa = PBXGroup;
+			children = (
+				BD100D1B2A0BB49000474D45 /* get more at bevouliin_dot_com.txt */,
+				BD100D1C2A0BB49000474D45 /* Transparent PNG */,
+			);
+			path = "Free mountain background(1)";
+			sourceTree = "<group>";
+		};
+		BD100D1C2A0BB49000474D45 /* Transparent PNG */ = {
+			isa = PBXGroup;
+			children = (
+				BD100D1D2A0BB49000474D45 /* Tile.png */,
+				BD100D1E2A0BB49000474D45 /* Full-Background.png */,
+				BD100D1F2A0BB49000474D45 /* layer-2-mountain.png */,
+				BD100D202A0BB49000474D45 /* layer-1-sky.png */,
+				BD100D212A0BB49000474D45 /* layer-3-ground.png */,
+			);
+			path = "Transparent PNG";
+			sourceTree = "<group>";
+		};
+		BD100D222A0BB49000474D45 /* Free mountain background */ = {
+			isa = PBXGroup;
+			children = (
+				BD100D232A0BB49000474D45 /* get more at bevouliin_dot_com.txt */,
+				BD100D242A0BB49000474D45 /* Transparent PNG */,
+			);
+			path = "Free mountain background";
+			sourceTree = "<group>";
+		};
+		BD100D242A0BB49000474D45 /* Transparent PNG */ = {
+			isa = PBXGroup;
+			children = (
+				BD100D252A0BB49000474D45 /* Tile.png */,
+				BD100D262A0BB49000474D45 /* Full-Background.png */,
+				BD100D272A0BB49000474D45 /* layer-2-mountain.png */,
+				BD100D282A0BB49000474D45 /* layer-1-sky.png */,
+				BD100D292A0BB49000474D45 /* layer-3-ground.png */,
+			);
+			path = "Transparent PNG";
+			sourceTree = "<group>";
+		};
+		BD100D2A2A0BB49000474D45 /* Fence Game Background for game developers */ = {
+			isa = PBXGroup;
+			children = (
+				BD100D2B2A0BB49000474D45 /* get more at bevouliin_dot_com.txt */,
+				BD100D2C2A0BB49000474D45 /* PNG */,
+			);
+			path = "Fence Game Background for game developers";
+			sourceTree = "<group>";
+		};
+		BD100D2C2A0BB49000474D45 /* PNG */ = {
+			isa = PBXGroup;
+			children = (
+				BD100D2D2A0BB49000474D45 /* layers for parallax effect */,
+				BD100D342A0BB49000474D45 /* tile ground.png */,
+				BD100D352A0BB49000474D45 /* full-bg.png */,
+			);
+			path = PNG;
+			sourceTree = "<group>";
+		};
+		BD100D2D2A0BB49000474D45 /* layers for parallax effect */ = {
+			isa = PBXGroup;
+			children = (
+				BD100D2E2A0BB49000474D45 /* layer-1.png */,
+				BD100D2F2A0BB49000474D45 /* layer-3.png */,
+				BD100D302A0BB49000474D45 /* layer-2.png */,
+				BD100D312A0BB49000474D45 /* layer-6.png */,
+				BD100D322A0BB49000474D45 /* layer-5.png */,
+				BD100D332A0BB49000474D45 /* layer-4.png */,
+			);
+			path = "layers for parallax effect";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -129,10 +385,50 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD100D392A0BB49000474D45 /* 1.png in Resources */,
+				BD100D5D2A0BB49000474D45 /* full-bg.png in Resources */,
+				BD100D552A0BB49000474D45 /* get more at bevouliin_dot_com.txt in Resources */,
+				BD100D4A2A0BB49000474D45 /* Tile.png in Resources */,
+				BD100D542A0BB49000474D45 /* layer-3-ground.png in Resources */,
+				BD100D452A0BB49000474D45 /* visit_bevouliin_dot_com.txt in Resources */,
+				BD100D592A0BB49000474D45 /* layer-6.png in Resources */,
+				BD100D442A0BB49000474D45 /* old-tree-game-ornament.png in Resources */,
+				BD100D4D2A0BB49000474D45 /* layer-1-sky.png in Resources */,
 				BD100CF22A0B8FDC00474D45 /* Main.storyboard in Resources */,
+				BD100D4B2A0BB49000474D45 /* Full-Background.png in Resources */,
+				BD100D532A0BB49000474D45 /* layer-1-sky.png in Resources */,
+				BD100D412A0BB49000474D45 /* frame-3.png in Resources */,
+				BD100D5B2A0BB49000474D45 /* layer-4.png in Resources */,
+				BD100D3C2A0BB49000474D45 /* brick_2.png in Resources */,
+				BD100D572A0BB49000474D45 /* layer-3.png in Resources */,
+				BD100D502A0BB49000474D45 /* Tile.png in Resources */,
+				BD100D3D2A0BB49000474D45 /* brick_1.png in Resources */,
 				BD100CE92A0B8FDC00474D45 /* GameScene.sks in Resources */,
+				BD100D372A0BB49000474D45 /* 2.png in Resources */,
+				BD100D382A0BB49000474D45 /* 3.png in Resources */,
+				BD100D492A0BB49000474D45 /* get more at bevouliin_dot_com.txt in Resources */,
+				BD100D3F2A0BB49000474D45 /* frame-4.png in Resources */,
+				BD100D422A0BB49000474D45 /* Frame-1.png in Resources */,
+				BD100D5C2A0BB49000474D45 /* tile ground.png in Resources */,
+				BD100D522A0BB49000474D45 /* layer-2-mountain.png in Resources */,
+				BD100D402A0BB49000474D45 /* frame-2.png in Resources */,
 				BD100CF42A0B8FEC00474D45 /* Assets.xcassets in Resources */,
+				BD100D562A0BB49000474D45 /* layer-1.png in Resources */,
+				BD100D462A0BB49000474D45 /* moss_obstacle_1.png in Resources */,
+				BD100D582A0BB49000474D45 /* layer-2.png in Resources */,
+				BD100D4F2A0BB49000474D45 /* get more at bevouliin_dot_com.txt in Resources */,
+				BD100D482A0BB49000474D45 /* moss_tile.png in Resources */,
+				BD100D4E2A0BB49000474D45 /* layer-3-ground.png in Resources */,
+				BD100D512A0BB49000474D45 /* Full-Background.png in Resources */,
+				BD100D472A0BB49000474D45 /* moss_obstacle_2.png in Resources */,
 				BD100CF72A0B8FEC00474D45 /* LaunchScreen.storyboard in Resources */,
+				BD100D3E2A0BB49000474D45 /* GIF-sample.gif in Resources */,
+				BD100D3B2A0BB49000474D45 /* brick_3.png in Resources */,
+				BD100D4C2A0BB49000474D45 /* layer-2-mountain.png in Resources */,
+				BD100D362A0BB49000474D45 /* visit_bevouliin_dot_com.txt in Resources */,
+				BD100D432A0BB49000474D45 /* visit_bevouliin_dot_com.txt in Resources */,
+				BD100D5A2A0BB49000474D45 /* layer-5.png in Resources */,
+				BD100D3A2A0BB49000474D45 /* visit_bevouliin_dot_com.txt in Resources */,
 				BD100CEB2A0B8FDC00474D45 /* Actions.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -298,8 +594,8 @@
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -325,8 +621,8 @@
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
